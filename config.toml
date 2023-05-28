@@ -2,6 +2,7 @@ baseURL = 'http://legionhackerteam.eu.org/'
 languageCode = 'en-us'
 title = ">/Legion7"
 theme = 'paper'
+description: "Website official legion hacker team"
 
 [menu]
 
